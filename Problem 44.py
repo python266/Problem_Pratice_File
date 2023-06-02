@@ -1,5 +1,3 @@
-#vallid prantheses
-
 x = ["()", "{}", "[]"]
 
 user_inout = input("-> ")
